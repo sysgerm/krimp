@@ -5,10 +5,7 @@ mkdir ~/Downloads/git
 sudo apt-get install git
 sudo apt-get install curl
 cd ~/Downloads/git
-\curl -sSL https://get.rvm.io | bash -s -- --autolibs=install-packages
-sudo .rvm/bin/rvm requirements
-\curl -sSL https://get.rvm.io | bash -s stable --ruby
-rvm install "ruby-2.5.3"
+git clone https://github.com/beefproject/beef.git
 cd beef/
 ./install
 
