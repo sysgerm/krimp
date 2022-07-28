@@ -32,8 +32,15 @@ You will also need an index.html file inside of your /var/www/html folder with a
 
 ## Running the script
 
+
 `git clone https://github.com/SysGerm/krimp.git`
+
+`chmod +x install.sh`
+
+`./install.sh`
+
 `chmod +x krimp.sh`
+
 `./krimp.sh DOMAIN LOCAL-TARGET-IP`
 
 Example: 
