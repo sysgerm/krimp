@@ -12,7 +12,8 @@
   ```
   
 Do you ever want to phish someone (ETHICALLY) and u cant seem to find a good url? Well I got you covered, this tool automates the process of DNS poisoning a target on your wifi to make them redirect to your page which is inected with beEf.
-*This is in an alpha stage, more automation will come*
+
+**This tool is in its alpha stage, more automation will come**
 
 ## Pre-requisites
 1. You will need to have beEf installed
