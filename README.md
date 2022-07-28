@@ -30,6 +30,15 @@ You will also need an index.html file inside of your /var/www/html folder with a
 ## Configurate the script
 - Change the directories in the script to your installation of beEF and bettercap.
 
+## Running the script
+
+`git clone https://github.com/SysGerm/krimp.git`
+`chmod +x krimp.sh`
+`./krimp.sh DOMAIN LOCAL-TARGET-IP`
+
+Example: 
+
+`./krimp.sh sysgerm.com 192.168.0.4`
 ### Extra
 At the moment, this tool is only used to hack people on your own wifi, more features will come over time, like over WAN.
 
