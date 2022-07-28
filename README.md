@@ -1,17 +1,19 @@
 # KRIMP
 ```
-                               ▄█   ▄█▄    ▄████████  ▄█    ▄▄▄▄███▄▄▄▄      ▄███████▄ 
-                               ███ ▄███▀   ███    ███ ███  ▄██▀▀▀███▀▀▀██▄   ███    ███ 
-                               ███▐██▀     ███    ███ ███▌ ███   ███   ███   ███    ███ 
-                              ▄█████▀     ▄███▄▄▄▄██▀ ███▌ ███   ███   ███   ███    ███ 
-                             ▀▀█████▄    ▀▀███▀▀▀▀▀   ███▌ ███   ███   ███ ▀█████████▀  
-                               ███▐██▄   ▀███████████ ███  ███   ███   ███   ███        
-                               ███ ▀███▄   ███    ███ ███  ███   ███   ███   ███        
-                               ███   ▀█▀   ███    ███ █▀    ▀█   ███   █▀   ▄████▀      
-                               ▀           ███    ███                                   
+                          ▄█   ▄█▄    ▄████████  ▄█    ▄▄▄▄███▄▄▄▄      ▄███████▄ 
+                          ███ ▄███▀   ███    ███ ███  ▄██▀▀▀███▀▀▀██▄   ███    ███ 
+                          ███▐██▀     ███    ███ ███▌ ███   ███   ███   ███    ███ 
+                         ▄█████▀     ▄███▄▄▄▄██▀ ███▌ ███   ███   ███   ███    ███ 
+                        ▀▀█████▄    ▀▀███▀▀▀▀▀   ███▌ ███   ███   ███ ▀█████████▀  
+                          ███▐██▄   ▀███████████ ███  ███   ███   ███   ███        
+                          ███ ▀███▄   ███    ███ ███  ███   ███   ███   ███        
+                          ███   ▀█▀   ███    ███ █▀    ▀█   ███   █▀   ▄████▀      
+                          ▀           ███    ███                                   
   ```
   
-Do you ever want to phish someone (ETHICALLY) and u cant seem to find a good url? Well I got you covered, this tool automates the process of DNS poisoning a target on your wifi to make them redirect to your page which is inected with beEf.
+Do you ever want to phish someone (ETHICALLY) and u cant seem to find a good url? Well I got you covered. 
+
+This tool automates the process of DNS poisoning a target on your wifi, by doing this you can make a custom URL and redirecting your IP, which is hosting apache, to this URL. Once the target is on this page, you will have full access to their browser because of the beEF hook.  
 
 **This tool is in its alpha stage, more automation will come**
 
@@ -30,4 +32,7 @@ You will also need an index.html file inside of your /var/www/html folder with a
 
 ### Extra
 At the moment, this tool is only used to hack people on your own wifi, more features will come over time, like over WAN.
+
+#### Responsibility
+I am not responsible for any actions u take with this tool.
 
