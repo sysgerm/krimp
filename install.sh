@@ -11,7 +11,6 @@ mkdir ~/Downloads/git
 
 # BeEF
 sudo apt-get install git
-sudo apt-get install curl
 cd ~/Downloads/git
 git clone https://github.com/beefproject/beef.git
 cd beef/
