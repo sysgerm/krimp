@@ -4,8 +4,6 @@ echo "
 ------------------------------------------------------
 "
 
-
-
 # Makes a git folder
 mkdir ~/Downloads/git
 
